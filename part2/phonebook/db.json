@@ -12,11 +12,6 @@
     },
     {
       "name": "Julian",
-      "number": "123",
-      "id": "RG-TLDD8Y8I"
-    },
-    {
-      "name": "Julian",
       "number": "12323",
       "id": "YkcUR-5uRDc"
     },
@@ -26,9 +21,14 @@
       "id": "Op4n4sMzFM8"
     },
     {
-      "name": "Alfre",
-      "number": "222",
-      "id": "_EsGy83fGsM"
+      "name": "Jairo",
+      "number": "12333333",
+      "id": "C5QvexgmNDo"
+    },
+    {
+      "name": "Robet",
+      "number": "9898989",
+      "id": "BQKEtw-mIBY"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
